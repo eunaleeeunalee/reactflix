@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactflix/static/js/main.ed24b3c9.js",
+    "main.js": "/reactflix/static/js/main.f843bd0a.js",
     "index.html": "/reactflix/index.html",
-    "main.ed24b3c9.js.map": "/reactflix/static/js/main.ed24b3c9.js.map"
+    "main.f843bd0a.js.map": "/reactflix/static/js/main.f843bd0a.js.map"
   },
   "entrypoints": [
-    "static/js/main.ed24b3c9.js"
+    "static/js/main.f843bd0a.js"
   ]
 }
